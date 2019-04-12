@@ -1,0 +1,17 @@
+#
+# Blocklist for use with hosts file to block ads and other tracking
+#
+# format:         hosts (hosts -- in hosts file format)
+#
+# start date:     Fri, 12 Apr 2019 00:00:00
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# AD SERVERS START HERE
+#
+
+# Roku
+127.0.0.1	liberty.logs.roku.com
+127.0.0.1   p.ads.roku.com
+127.0.0.1   scribe.logs.roku.com
