@@ -12,6 +12,7 @@
 #
 
 # Roku
+127.0.0.1 i.ads.roku.com
 127.0.0.1 p.ads.roku.com
 127.0.0.1 tis.cti.roku.com
 127.0.0.1 keysvc.cs.roku.com
