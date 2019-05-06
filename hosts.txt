@@ -11,6 +11,9 @@
 # AD SERVERS START HERE
 #
 
+# Amazon
+127.0.0.1 aax-us-east.amazon-adsystem.com
+
 # Roku
 127.0.0.1 i.ads.roku.com
 127.0.0.1 p.ads.roku.com
