@@ -30,3 +30,7 @@
 127.0.0.1 longview.sb.roku.com
 127.0.0.1 longview.sw.roku.com
 127.0.0.1 customer-feedbacks.web.roku.com
+
+# Wifi Outlet
+127.0.0.1 a.tuyaus.com
+127.0.0.1 mq.gw.tuyaus.com
