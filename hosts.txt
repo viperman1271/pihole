@@ -21,12 +21,12 @@
 127.0.0.1 tis.cti.roku.com
 127.0.0.1 configsvc.cs.roku.com
 127.0.0.1 keysvc.cs.roku.com
-127.0.0.1 austin.logs.roku.com
-127.0.0.1 cooper.logs.roku.com
-127.0.0.1 giga.logs.roku.com
+#127.0.0.1 austin.logs.roku.com
+#127.0.0.1 cooper.logs.roku.com
+#127.0.0.1 giga.logs.roku.com
 #127.0.0.1 liberty.logs.roku.com
 #127.0.0.1 scribe.logs.roku.com
-127.0.0.1 tyler.logs.roku.com
+#127.0.0.1 tyler.logs.roku.com
 127.0.0.1 longview.sb.roku.com
 127.0.0.1 longview.sw.roku.com
 127.0.0.1 customer-feedbacks.web.roku.com
