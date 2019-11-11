@@ -34,3 +34,6 @@
 # Wifi Outlet
 127.0.0.1 a.tuyaus.com
 127.0.0.1 mq.gw.tuyaus.com
+
+127.0.0.1 ow.ly
+127.0.0.1 0rz.tw
